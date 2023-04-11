@@ -1,0 +1,4 @@
+# It starts with
+build_env
+build_env/build_root
+.vscode/
