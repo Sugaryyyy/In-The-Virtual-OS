@@ -1,3 +1,5 @@
+# ARCHIVED
+might get unarchived at some point, the meme's dead anyway
 # In The Virtual OS
 It starts with
 # Info
